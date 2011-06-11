@@ -1,0 +1,10 @@
+
+A small script the record the name of the active window title.
+
+Output is written to a csv file for easy analysis using spreadsheets.
+
+TODO:
+-----
+* Write output to a database (sqlite?)
+* Add user-defined catogery based on the window name. (eg: Chrome|Firefox = Browser )
+* Make it cross-platform. Currently works only on Linux. 
